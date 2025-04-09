@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>F1 Fantasy Combinator(2024)</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin: 0;
+            overflow-y: auto; /* Enable vertical scrolling */
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        iframe {
+            margin-bottom: 10px; 
+            width: 1000px; 
+            height: 80px; 
+        }
+
+        .not-available {
+            border: 1px solid #ccc; 
+            padding: 10px; 
+            text-align: center;
+        }
+        .container {
+      width: 1000px;
+      height: 75px;
+      display: flex; 
+    }
+    .predicted-team {
+      background-color: lightblue; 
+      flex: 7;
+      display: flex; 
+      justify-content: space-around; /* Space drivers evenly */
+    }
+    .two-x-driver {
+      background-color: lightgreen; 
+      flex: 2;
+      display: flex; 
+      justify-content: center; /* Center driver name */
+      align-items: center; 
+    }
+    </style>
+</head>
+<body>
+
+    <h1>F1 Fantasy Combinator(2024)</h1>
+
+    <div class="container">
+        <div class="predicted-team">
+    
+          <p>Optimal Team</p> 
+
+        </div>
+        <div class="two-x-driver">
+          <p> Turbo Driver</p> 
+        </div>
+    </div>
+
+
+    <script>
+        function createIframe(src) {
+            const iframe = document.createElement('iframe');
+            iframe.width = "1200";
+            iframe.height = "200";
+            iframe.onerror = function() {
+                const container = document.createElement('div');
+                container.classList.add('not-available');
+                container.textContent = "Not available";
+                document.body.appendChild(container);
+            };
+            iframe.src = src;
+            document.body.appendChild(iframe);
+        }
+
+        // Create 24 iframes
+        for (let i = 1; i <= 24; i++) {
+            // Replace with the actual source URLs for your iframes
+            const src = `prediction_pages/2024/race_${i}_predictions.html`;  
+            createIframe(src);
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,65 @@
+model,feature_set,error
+rf,"['fp1', 'fp2', 'fp3']",184.08478260869566
+rf,"['fp1', 'fp2', 'fp3', 'avg_score']",142.95
+rf,"['fp1', 'fp2', 'fp3', 'avg_overtake']",190.95217391304348
+rf,"['fp1', 'fp2', 'fp3', 'dnf_prob']",184.89565217391305
+rf,"['fp1', 'fp2', 'fp3', 'dotd_prob']",173.8282608695652
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake']",148.0304347826087
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob']",141.65652173913043
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'dotd_prob']",136.8282608695652
+rf,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob']",184.6108695652174
+rf,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dotd_prob']",181.9217391304348
+rf,"['fp1', 'fp2', 'fp3', 'dnf_prob', 'dotd_prob']",173.19565217391303
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob']",146.11521739130436
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dotd_prob']",140.9195652173913
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob', 'dotd_prob']",137.2826086956522
+rf,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob', 'dotd_prob']",174.63478260869564
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob', 'dotd_prob']",139.55652173913043
+svr,"['fp1', 'fp2', 'fp3']",173.2826086956522
+svr,"['fp1', 'fp2', 'fp3', 'avg_score']",169.97391304347826
+svr,"['fp1', 'fp2', 'fp3', 'avg_overtake']",173.75652173913045
+svr,"['fp1', 'fp2', 'fp3', 'dnf_prob']",173.49565217391304
+svr,"['fp1', 'fp2', 'fp3', 'dotd_prob']",173.47608695652173
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake']",169.7586956521739
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob']",169.77608695652174
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'dotd_prob']",169.80869565217392
+svr,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob']",173.38695652173914
+svr,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dotd_prob']",173.36304347826086
+svr,"['fp1', 'fp2', 'fp3', 'dnf_prob', 'dotd_prob']",173.55869565217392
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob']",169.36739130434782
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dotd_prob']",169.36739130434782
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob', 'dotd_prob']",169.0108695652174
+svr,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob', 'dotd_prob']",173.4391304347826
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob', 'dotd_prob']",169.19130434782608
+lg,"['fp1', 'fp2', 'fp3']",247.36521739130436
+lg,"['fp1', 'fp2', 'fp3', 'avg_score']",577.3913043478261
+lg,"['fp1', 'fp2', 'fp3', 'avg_overtake']",1831.213043478261
+lg,"['fp1', 'fp2', 'fp3', 'dnf_prob']",383.44347826086954
+lg,"['fp1', 'fp2', 'fp3', 'dotd_prob']",469.4630434782609
+lg,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake']",4436.347826086957
+lg,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob']",1308.5760869565217
+lg,"['fp1', 'fp2', 'fp3', 'avg_score', 'dotd_prob']",715.8304347826087
+lg,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob']",4557.091304347826
+lg,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dotd_prob']",13723.478260869566
+lg,"['fp1', 'fp2', 'fp3', 'dnf_prob', 'dotd_prob']",602.1717391304347
+lg,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob']",2269.5847826086956
+lg,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dotd_prob']",5345.121739130434
+lg,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob', 'dotd_prob']",1435.8086956521738
+lg,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob', 'dotd_prob']",16387.028260869567
+lg,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob', 'dotd_prob']",3164.282608695652
+ridge,"['fp1', 'fp2', 'fp3']",220.55869565217392
+ridge,"['fp1', 'fp2', 'fp3', 'avg_score']",257.9217391304348
+ridge,"['fp1', 'fp2', 'fp3', 'avg_overtake']",363.8891304347826
+ridge,"['fp1', 'fp2', 'fp3', 'dnf_prob']",220.4282608695652
+ridge,"['fp1', 'fp2', 'fp3', 'dotd_prob']",216.04347826086956
+ridge,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake']",312.18695652173915
+ridge,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob']",257.3717391304348
+ridge,"['fp1', 'fp2', 'fp3', 'avg_score', 'dotd_prob']",259.20652173913044
+ridge,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob']",362.9304347826087
+ridge,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dotd_prob']",352.0608695652174
+ridge,"['fp1', 'fp2', 'fp3', 'dnf_prob', 'dotd_prob']",216.03695652173914
+ridge,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob']",311.75217391304346
+ridge,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dotd_prob']",312.56739130434784
+ridge,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob', 'dotd_prob']",258.7130434782609
+ridge,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob', 'dotd_prob']",351.5282608695652
+ridge,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob', 'dotd_prob']",311.9869565217391

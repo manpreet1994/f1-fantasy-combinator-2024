@@ -1,0 +1,117 @@
+Race no 2, with budget 100 mse error = 123.7
+predicted best team is ['OCO', 'STR', 'SAI', 'MAG', 'ZHO', 'red', 'fer'] with 2x driver SAI and would have scored 196 that weekend
+while actual best team is ['OCO', 'LEC', 'HUL', 'MAG', 'COL', 'red', 'fer'] with best possible score of 253
+Number of drivers differed in predicted and actual best teams 3
+
+Race no 3, with budget 100 mse error = 229.95
+predicted best team is ['OCO', 'STR', 'SAI', 'MAG', 'COL', 'red', 'fer'] with 2x driver SAI and would have scored 240 that weekend
+while actual best team is ['STR', 'LEC', 'SAI', 'HUL', 'TSU', 'fer', 'ast'] with best possible score of 295
+Number of drivers differed in predicted and actual best teams 4
+
+Race no 4, with budget 100 mse error = 105.65
+predicted best team is ['OCO', 'LEC', 'HUL', 'MAG', 'COL', 'red', 'fer'] with 2x driver LEC and would have scored 262 that weekend
+while actual best team is ['HUL', 'BOT', 'VER', 'TSU', 'COL', 'red', 'ast'] with best possible score of 271
+Number of drivers differed in predicted and actual best teams 4
+
+Race no 5, with budget 100 mse error = 113.15
+predicted best team is ['SAI', 'HUL', 'ZHO', 'VER', 'COL', 'fer', 'haa'] with 2x driver VER and would have scored 271 that weekend
+while actual best team is ['GAS', 'ZHO', 'PER', 'ALB', 'COL', 'red', 'fer'] with best possible score of 325
+Number of drivers differed in predicted and actual best teams 4
+
+Race no 6, with budget 100 mse error = 118.3
+predicted best team is ['LEC', 'HUL', 'BOT', 'ZHO', 'COL', 'red', 'fer'] with 2x driver LEC and would have scored 266 that weekend
+while actual best team is ['GAS', 'SAI', 'BOT', 'ZHO', 'TSU', 'red', 'fer'] with best possible score of 284
+Number of drivers differed in predicted and actual best teams 3
+
+Race no 7, with budget 100 mse error = 115.8
+predicted best team is ['SAI', 'HUL', 'BOT', 'ZHO', 'COL', 'red', 'fer'] with 2x driver SAI and would have scored 150 that weekend
+while actual best team is ['HUL', 'MAG', 'ZHO', 'NOR', 'COL', 'mcl', 'mer'] with best possible score of 211
+Number of drivers differed in predicted and actual best teams 4
+
+Race no 8, with budget 100 mse error = 403.55
+predicted best team is ['LEC', 'HUL', 'MAG', 'ZHO', 'COL', 'mcl', 'fer'] with 2x driver LEC and would have scored 152 that weekend
+while actual best team is ['LEC', 'BOT', 'TSU', 'ALB', 'COL', 'mcl', 'fer'] with best possible score of 235
+Number of drivers differed in predicted and actual best teams 3
+
+Race no 9, with budget 100 mse error = 433.15
+predicted best team is ['OCO', 'HUL', 'MAG', 'VER', 'COL', 'red', 'haa'] with 2x driver VER and would have scored 163 that weekend
+while actual best team is ['GAS', 'HUL', 'BOT', 'NOR', 'HAM', 'mer', 'haa'] with best possible score of 261
+Number of drivers differed in predicted and actual best teams 5
+
+Race no 10, with budget 100 mse error = 85.7
+predicted best team is ['HUL', 'ZHO', 'NOR', 'PER', 'COL', 'fer', 'wil'] with 2x driver NOR and would have scored 180 that weekend
+while actual best team is ['GAS', 'HUL', 'NOR', 'LAW', 'ALB', 'red', 'alp'] with best possible score of 232
+Number of drivers differed in predicted and actual best teams 5
+
+Race no 11, with budget 100 mse error = 113.9
+predicted best team is ['HUL', 'ZHO', 'RUS', 'ALB', 'COL', 'mcl', 'fer'] with 2x driver RUS and would have scored 244 that weekend
+while actual best team is ['HUL', 'BOT', 'PIA', 'RUS', 'ALB', 'mer', 'haa'] with best possible score of 285
+Number of drivers differed in predicted and actual best teams 4
+
+Race no 12, with budget 100 mse error = 186.4
+predicted best team is ['HUL', 'MAG', 'BOT', 'HAM', 'COL', 'fer', 'mer'] with 2x driver HAM and would have scored 200 that weekend
+while actual best team is ['STR', 'HUL', 'MAG', 'HAM', 'ALB', 'mcl', 'haa'] with best possible score of 226
+Number of drivers differed in predicted and actual best teams 4
+
+Race no 13, with budget 100 mse error = 105.95
+predicted best team is ['HUL', 'ZHO', 'PIA', 'ALB', 'COL', 'fer', 'mer'] with 2x driver PIA and would have scored 203 that weekend
+while actual best team is ['OCO', 'MAG', 'PIA', 'TSU', 'ALB', 'mcl', 'vrb'] with best possible score of 214
+Number of drivers differed in predicted and actual best teams 5
+
+Race no 14, with budget 100 mse error = 159.1
+predicted best team is ['HUL', 'BOT', 'ZHO', 'HAM', 'COL', 'fer', 'mer'] with 2x driver HAM and would have scored 153 that weekend
+while actual best team is ['OCO', 'HAM', 'TSU', 'LAW', 'COL', 'red', 'alp'] with best possible score of 205
+Number of drivers differed in predicted and actual best teams 5
+
+Race no 15, with budget 100 mse error = 73.45
+predicted best team is ['HUL', 'MAG', 'ZHO', 'NOR', 'COL', 'red', 'haa'] with 2x driver NOR and would have scored 191 that weekend
+while actual best team is ['GAS', 'HUL', 'MAG', 'NOR', 'COL', 'mcl', 'alp'] with best possible score of 232
+Number of drivers differed in predicted and actual best teams 3
+
+Race no 16, with budget 100 mse error = 94.45
+predicted best team is ['LEC', 'HUL', 'BOT', 'ZHO', 'COL', 'fer', 'mer'] with 2x driver LEC and would have scored 224 that weekend
+while actual best team is ['LEC', 'BOT', 'ZHO', 'PIA', 'COL', 'mcl', 'wil'] with best possible score of 247
+Number of drivers differed in predicted and actual best teams 3
+
+Race no 17, with budget 100 mse error = 166.5
+predicted best team is ['BOT', 'ZHO', 'PIA', 'ALB', 'COL', 'fer', 'mer'] with 2x driver PIA and would have scored 222 that weekend
+while actual best team is ['ZHO', 'PIA', 'RUS', 'ALB', 'COL', 'mcl', 'wil'] with best possible score of 264
+Number of drivers differed in predicted and actual best teams 3
+
+Race no 18, with budget 100 mse error = 58.35
+predicted best team is ['GAS', 'ZHO', 'TSU', 'LAW', 'ALB', 'mcl', 'fer'] with 2x driver LAW and would have scored 174 that weekend
+while actual best team is ['HUL', 'ZHO', 'NOR', 'LAW', 'COL', 'mcl', 'vrb'] with best possible score of 214
+Number of drivers differed in predicted and actual best teams 4
+
+Race no 19, with budget 100 mse error = 165.2
+predicted best team is ['GAS', 'LEC', 'MAG', 'ALB', 'COL', 'mcl', 'haa'] with 2x driver LEC and would have scored 243 that weekend
+while actual best team is ['LEC', 'HUL', 'LAW', 'ALB', 'COL', 'fer', 'vrb'] with best possible score of 286
+Number of drivers differed in predicted and actual best teams 4
+
+Race no 20, with budget 100 mse error = 142.95
+predicted best team is ['SAI', 'BOT', 'ZHO', 'RUS', 'COL', 'fer', 'wil'] with 2x driver SAI and would have scored 208 that weekend
+while actual best team is ['OCO', 'SAI', 'MAG', 'ZHO', 'COL', 'fer', 'haa'] with best possible score of 250
+Number of drivers differed in predicted and actual best teams 3
+
+Race no 21, with budget 100 mse error = 449.6
+predicted best team is ['GAS', 'ZHO', 'VER', 'ALB', 'COL', 'mcl', 'wil'] with 2x driver VER and would have scored 198 that weekend
+while actual best team is ['GAS', 'OCO', 'ZHO', 'VER', 'TSU', 'alp', 'vrb'] with best possible score of 353
+Number of drivers differed in predicted and actual best teams 4
+
+Race no 22, with budget 100 mse error = 106.05
+predicted best team is ['ZHO', 'HAM', 'LAW', 'ALB', 'COL', 'mcl', 'haa'] with 2x driver HAM and would have scored 186 that weekend
+while actual best team is ['HUL', 'ZHO', 'HAM', 'TSU', 'COL', 'mer', 'haa'] with best possible score of 242
+Number of drivers differed in predicted and actual best teams 3
+
+Race no 23, with budget 100 mse error = 218.75
+predicted best team is ['HUL', 'ZHO', 'LAW', 'ALB', 'COL', 'mcl', 'fer'] with 2x driver ZHO and would have scored 180 that weekend
+while actual best team is ['GAS', 'LEC', 'MAG', 'BOT', 'ZHO', 'mcl', 'kck'] with best possible score of 268
+Number of drivers differed in predicted and actual best teams 5
+
+Race no 24, with budget 100 mse error = 185.65
+predicted best team is ['LEC', 'HUL', 'BOT', 'ALB', 'COL', 'fer', 'haa'] with 2x driver LEC and would have scored 209 that weekend
+while actual best team is ['OCO', 'LEC', 'BOT', 'ZHO', 'ALB', 'fer', 'haa'] with best possible score of 233
+Number of drivers differed in predicted and actual best teams 2
+
+Season score of predicted teams 4715, while actual teams 5886
+Avg differing suggestions of 3.78

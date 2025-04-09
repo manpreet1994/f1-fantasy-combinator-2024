@@ -1,0 +1,171 @@
+1. bahrain gp, with budget 100 mse error = 118.45
+Re-calibrate 2x driver
+penalty for best team 0
+predicted best team ['ALO', 'LEC', 'SAI', 'HUL', 'ALB', 'fer', 'ast'], 2x driver ALO with actual score 191 with predicted score 248
+while actual best team ['OCO', 'STR', 'SAI', 'MAG', 'ZHO', 'red', 'fer'] with best possible score of 267
+Number of drivers differed in predicted and actual best teams 5
+Number of drivers changed from previous team selection 0
+--- - -- - - - - -  - -
+2. saudi-arabia gp, with budget 101.1 mse error = 123.7
+penalty for best team 10
+predicted best team ['ALO', 'SAI', 'HUL', 'ZHO', 'COL', 'red', 'fer'], 2x driver SAI with actual score 220 with predicted score 214
+while actual best team ['ALO', 'LEC', 'HUL', 'BOT', 'COL', 'red', 'fer'] with best possible score of 243
+Number of drivers differed in predicted and actual best teams 2
+Number of drivers changed from previous team selection 3
+--- - -- - - - - -  - -
+3. australia gp, with budget 102.7 mse error = 208.3
+penalty for best team 0
+predicted best team ['OCO', 'STR', 'SAI', 'HUL', 'COL', 'red', 'fer'], 2x driver SAI with actual score 243 with predicted score 230
+while actual best team ['LEC', 'SAI', 'HUL', 'MAG', 'BOT', 'mcl', 'fer'] with best possible score of 297
+Number of drivers differed in predicted and actual best teams 4
+Number of drivers changed from previous team selection 2
+--- - -- - - - - -  - -
+4. japan gp, with budget 106.0 mse error = 84.4
+penalty for best team 0
+predicted best team ['STR', 'SAI', 'HUL', 'MAG', 'TSU', 'red', 'fer'], 2x driver SAI with actual score 265 with predicted score 225
+while actual best team ['HUL', 'BOT', 'VER', 'TSU', 'COL', 'red', 'fer'] with best possible score of 298
+Number of drivers differed in predicted and actual best teams 3
+Number of drivers changed from previous team selection 2
+--- - -- - - - - -  - -
+5. china gp, with budget 108.8 mse error = 126.75
+penalty for best team 10
+predicted best team ['HUL', 'MAG', 'ZHO', 'VER', 'COL', 'red', 'fer'], 2x driver VER with actual score 348 with predicted score 228
+while actual best team ['GAS', 'MAG', 'ZHO', 'VER', 'ALB', 'red', 'fer'] with best possible score of 360
+Number of drivers differed in predicted and actual best teams 2
+Number of drivers changed from previous team selection 3
+--- - -- - - - - -  - -
+6. miami gp, with budget 110.3 mse error = 124.5
+penalty for best team 0
+predicted best team ['GAS', 'MAG', 'ZHO', 'VER', 'COL', 'red', 'fer'], 2x driver VER with actual score 273 with predicted score 256
+while actual best team ['GAS', 'BOT', 'ZHO', 'VER', 'TSU', 'red', 'fer'] with best possible score of 312
+Number of drivers differed in predicted and actual best teams 2
+Number of drivers changed from previous team selection 1
+--- - -- - - - - -  - -
+7. emilia-romagna gp, with budget 111.5 mse error = 105.45
+penalty for best team 0
+predicted best team ['HUL', 'MAG', 'ZHO', 'VER', 'COL', 'red', 'fer'], 2x driver VER with actual score 201 with predicted score 268
+while actual best team ['MAG', 'ZHO', 'NOR', 'PIA', 'COL', 'mcl', 'mer'] with best possible score of 232
+Number of drivers differed in predicted and actual best teams 4
+Number of drivers changed from previous team selection 1
+--- - -- - - - - -  - -
+8. monaco gp, with budget 112.2 mse error = 362.5
+penalty for best team 0
+predicted best team ['GAS', 'ZHO', 'VER', 'TSU', 'COL', 'red', 'fer'], 2x driver VER with actual score 114 with predicted score 256
+while actual best team ['LEC', 'BOT', 'PIA', 'TSU', 'COL', 'mcl', 'fer'] with best possible score of 257
+Number of drivers differed in predicted and actual best teams 4
+Number of drivers changed from previous team selection 2
+--- - -- - - - - -  - -
+9. canada gp, with budget 113.5 mse error = 345.45
+penalty for best team 0
+predicted best team ['GAS', 'HUL', 'MAG', 'VER', 'COL', 'red', 'fer'], 2x driver VER with actual score 111 with predicted score 215
+while actual best team ['GAS', 'HUL', 'NOR', 'HAM', 'RUS', 'mer', 'haa'] with best possible score of 280
+Number of drivers differed in predicted and actual best teams 5
+Number of drivers changed from previous team selection 2
+--- - -- - - - - -  - -
+10. spain gp, with budget 116.0 mse error = 51.1
+penalty for best team 0
+predicted best team ['GAS', 'HUL', 'BOT', 'ZHO', 'VER', 'red', 'fer'], 2x driver VER with actual score 220 with predicted score 231
+while actual best team ['GAS', 'HUL', 'ZHO', 'NOR', 'LAW', 'red', 'mer'] with best possible score of 274
+Number of drivers differed in predicted and actual best teams 3
+Number of drivers changed from previous team selection 2
+--- - -- - - - - -  - -
+11. austria gp, with budget 116.5 mse error = 89.0
+penalty for best team 0
+predicted best team ['HUL', 'ZHO', 'VER', 'TSU', 'ALB', 'red', 'fer'], 2x driver VER with actual score 219 with predicted score 220
+while actual best team ['HUL', 'MAG', 'PIA', 'RUS', 'ALB', 'fer', 'mer'] with best possible score of 321
+Number of drivers differed in predicted and actual best teams 4
+Number of drivers changed from previous team selection 2
+--- - -- - - - - -  - -
+12. great-britain gp, with budget 118.3 mse error = 121.5
+penalty for best team 0
+predicted best team ['HUL', 'ZHO', 'NOR', 'TSU', 'ALB', 'mcl', 'red'], 2x driver NOR with actual score 191 with predicted score 219
+while actual best team ['SAI', 'HUL', 'PIA', 'HAM', 'COL', 'mcl', 'haa'] with best possible score of 252
+Number of drivers differed in predicted and actual best teams 5
+Number of drivers changed from previous team selection 2
+--- - -- - - - - -  - -
+13. hungary gp, with budget 119.9 mse error = 69.15
+penalty for best team 10
+predicted best team ['HUL', 'ZHO', 'NOR', 'PIA', 'COL', 'mcl', 'mer'], 2x driver NOR with actual score 243 with predicted score 239
+while actual best team ['OCO', 'MAG', 'PIA', 'RUS', 'COL', 'mcl', 'mer'] with best possible score of 256
+Number of drivers differed in predicted and actual best teams 3
+Number of drivers changed from previous team selection 3
+--- - -- - - - - -  - -
+14. belgium gp, with budget 120.9 mse error = 115.8
+penalty for best team 0
+predicted best team ['HUL', 'ZHO', 'PIA', 'HAM', 'COL', 'mcl', 'fer'], 2x driver PIA with actual score 222 with predicted score 226
+while actual best team ['GAS', 'OCO', 'HAM', 'TSU', 'LAW', 'mcl', 'red'] with best possible score of 255
+Number of drivers differed in predicted and actual best teams 5
+Number of drivers changed from previous team selection 2
+--- - -- - - - - -  - -
+15. netherlands gp, with budget 122.2 mse error = 29.55
+penalty for best team 0
+predicted best team ['HUL', 'BOT', 'NOR', 'HAM', 'COL', 'mcl', 'fer'], 2x driver NOR with actual score 280 with predicted score 215
+while actual best team ['GAS', 'LEC', 'BOT', 'NOR', 'COL', 'mcl', 'fer'] with best possible score of 288
+Number of drivers differed in predicted and actual best teams 2
+Number of drivers changed from previous team selection 2
+--- - -- - - - - -  - -
+16. italy gp, with budget 123.3 mse error = 66.55
+penalty for best team 0
+predicted best team ['LEC', 'HUL', 'BOT', 'NOR', 'COL', 'mcl', 'mer'], 2x driver NOR with actual score 274 with predicted score 267
+while actual best team ['LEC', 'BOT', 'NOR', 'ALB', 'COL', 'mcl', 'fer'] with best possible score of 299
+Number of drivers differed in predicted and actual best teams 2
+Number of drivers changed from previous team selection 2
+--- - -- - - - - -  - -
+17. azerbaijan gp, with budget 125.0 mse error = 118.95
+penalty for best team 0
+predicted best team ['HUL', 'NOR', 'RUS', 'TSU', 'COL', 'mcl', 'mer'], 2x driver NOR with actual score 248 with predicted score 269
+while actual best team ['ZHO', 'NOR', 'PIA', 'ALB', 'COL', 'mcl', 'mer'] with best possible score of 310
+Number of drivers differed in predicted and actual best teams 3
+Number of drivers changed from previous team selection 2
+--- - -- - - - - -  - -
+18. singapore gp, with budget 126.8 mse error = 82.8
+penalty for best team 0
+predicted best team ['BOT', 'NOR', 'PIA', 'TSU', 'COL', 'mcl', 'mer'], 2x driver NOR with actual score 239 with predicted score 269
+while actual best team ['ZHO', 'NOR', 'PIA', 'LAW', 'COL', 'mcl', 'mer'] with best possible score of 261
+Number of drivers differed in predicted and actual best teams 2
+Number of drivers changed from previous team selection 2
+--- - -- - - - - -  - -
+19. united-states gp, with budget 127.8 mse error = 86.3
+penalty for best team 0
+predicted best team ['LEC', 'BOT', 'NOR', 'TSU', 'COL', 'mcl', 'fer'], 2x driver LEC with actual score 329 with predicted score 261
+while actual best team ['LEC', 'SAI', 'HUL', 'LAW', 'COL', 'mcl', 'fer'] with best possible score of 369
+Number of drivers differed in predicted and actual best teams 3
+Number of drivers changed from previous team selection 2
+--- - -- - - - - -  - -
+20. mexico gp, with budget 128.8 mse error = 109.15
+penalty for best team 0
+predicted best team ['SAI', 'MAG', 'BOT', 'NOR', 'COL', 'mcl', 'fer'], 2x driver SAI with actual score 303 with predicted score 267
+while actual best team ['LEC', 'SAI', 'MAG', 'ZHO', 'COL', 'mcl', 'fer'] with best possible score of 314
+Number of drivers differed in predicted and actual best teams 2
+Number of drivers changed from previous team selection 2
+--- - -- - - - - -  - -
+21. brazil gp, with budget 131.0 mse error = 349.0
+penalty for best team 0
+predicted best team ['LEC', 'BOT', 'NOR', 'TSU', 'COL', 'mcl', 'fer'], 2x driver LEC with actual score 155 with predicted score 203
+while actual best team ['GAS', 'OCO', 'VER', 'PER', 'TSU', 'red', 'alp'] with best possible score of 430
+Number of drivers differed in predicted and actual best teams 6
+Number of drivers changed from previous team selection 2
+--- - -- - - - - -  - -
+22. las-vegas gp, with budget 131.9 mse error = 111.6
+penalty for best team 0
+predicted best team ['GAS', 'LEC', 'SAI', 'TSU', 'COL', 'mcl', 'fer'], 2x driver SAI with actual score 235 with predicted score 254
+while actual best team ['ALO', 'HUL', 'HAM', 'RUS', 'COL', 'fer', 'mer'] with best possible score of 320
+Number of drivers differed in predicted and actual best teams 5
+Number of drivers changed from previous team selection 2
+--- - -- - - - - -  - -
+23. qatar gp, with budget 133.3 mse error = 176.15
+penalty for best team 10
+predicted best team ['BOT', 'RUS', 'VER', 'TSU', 'COL', 'mcl', 'fer'], 2x driver VER with actual score 245 with predicted score 237
+while actual best team ['LEC', 'MAG', 'BOT', 'ZHO', 'PIA', 'mcl', 'fer'] with best possible score of 308
+Number of drivers differed in predicted and actual best teams 4
+Number of drivers changed from previous team selection 3
+--- - -- - - - - -  - -
+24. abu-dhabi gp, with budget 134.8 mse error = 165.55
+penalty for best team 0
+predicted best team ['OCO', 'BOT', 'RUS', 'VER', 'ALB', 'mcl', 'fer'], 2x driver VER with actual score 213 with predicted score 241
+while actual best team ['GAS', 'LEC', 'ZHO', 'HAM', 'ALB', 'mcl', 'fer'] with best possible score of 323
+Number of drivers differed in predicted and actual best teams 4
+Number of drivers changed from previous team selection 2
+--- - -- - - - - -  - -
+Season score of predicted teams 5582, while actual teams 7126
+Avg differing suggestions of 3.5

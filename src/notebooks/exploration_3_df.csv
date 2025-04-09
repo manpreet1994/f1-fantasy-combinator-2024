@@ -1,0 +1,97 @@
+model,feature_set,error
+rf,"['fp1', 'fp2', 'fp3']",183.55217391304348
+rf,"['fp1', 'fp2', 'fp3', 'avg_score']",142.70652173913044
+rf,"['fp1', 'fp2', 'fp3', 'avg_overtake']",190.56521739130434
+rf,"['fp1', 'fp2', 'fp3', 'dnf_prob']",183.98478260869564
+rf,"['fp1', 'fp2', 'fp3', 'dotd_prob']",173.91086956521738
+rf,"['fp1', 'fp2', 'fp3', 'weighted_fp_mean']",184.42608695652174
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake']",148.4586956521739
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob']",140.4282608695652
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'dotd_prob']",136.6478260869565
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'weighted_fp_mean']",142.62173913043478
+rf,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob']",185.13695652173914
+rf,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dotd_prob']",179.27608695652174
+rf,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'weighted_fp_mean']",189.73043478260868
+rf,"['fp1', 'fp2', 'fp3', 'dnf_prob', 'dotd_prob']",173.55869565217392
+rf,"['fp1', 'fp2', 'fp3', 'dnf_prob', 'weighted_fp_mean']",180.97608695652173
+rf,"['fp1', 'fp2', 'fp3', 'dotd_prob', 'weighted_fp_mean']",173.45
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob']",144.4695652173913
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dotd_prob']",142.1
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'weighted_fp_mean']",149.76956521739132
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob', 'dotd_prob']",136.3586956521739
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob', 'weighted_fp_mean']",143.95652173913044
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'dotd_prob', 'weighted_fp_mean']",140.2804347826087
+rf,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob', 'dotd_prob']",175.02391304347827
+rf,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob', 'weighted_fp_mean']",184.88478260869564
+rf,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dotd_prob', 'weighted_fp_mean']",182.22391304347826
+rf,"['fp1', 'fp2', 'fp3', 'dnf_prob', 'dotd_prob', 'weighted_fp_mean']",174.4608695652174
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob', 'dotd_prob']",139.52391304347827
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob', 'weighted_fp_mean']",147.79347826086956
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dotd_prob', 'weighted_fp_mean']",143.20434782608694
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob', 'dotd_prob', 'weighted_fp_mean']",140.4586956521739
+rf,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob', 'dotd_prob', 'weighted_fp_mean']",175.9304347826087
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob', 'dotd_prob', 'weighted_fp_mean']",143.20652173913044
+svr,"['fp1', 'fp2', 'fp3']",173.2826086956522
+svr,"['fp1', 'fp2', 'fp3', 'avg_score']",169.97391304347826
+svr,"['fp1', 'fp2', 'fp3', 'avg_overtake']",173.75652173913045
+svr,"['fp1', 'fp2', 'fp3', 'dnf_prob']",173.49565217391304
+svr,"['fp1', 'fp2', 'fp3', 'dotd_prob']",173.47608695652173
+svr,"['fp1', 'fp2', 'fp3', 'weighted_fp_mean']",173.20434782608694
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake']",169.7586956521739
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob']",169.77608695652174
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'dotd_prob']",169.80869565217392
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'weighted_fp_mean']",170.14565217391305
+svr,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob']",173.38695652173914
+svr,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dotd_prob']",173.36304347826086
+svr,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'weighted_fp_mean']",173.40217391304347
+svr,"['fp1', 'fp2', 'fp3', 'dnf_prob', 'dotd_prob']",173.55869565217392
+svr,"['fp1', 'fp2', 'fp3', 'dnf_prob', 'weighted_fp_mean']",173.13478260869564
+svr,"['fp1', 'fp2', 'fp3', 'dotd_prob', 'weighted_fp_mean']",173.18260869565216
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob']",169.36739130434782
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dotd_prob']",169.36739130434782
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'weighted_fp_mean']",169.9586956521739
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob', 'dotd_prob']",169.0108695652174
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob', 'weighted_fp_mean']",169.61304347826086
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'dotd_prob', 'weighted_fp_mean']",169.61304347826086
+svr,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob', 'dotd_prob']",173.4391304347826
+svr,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob', 'weighted_fp_mean']",173.29782608695652
+svr,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dotd_prob', 'weighted_fp_mean']",173.30434782608697
+svr,"['fp1', 'fp2', 'fp3', 'dnf_prob', 'dotd_prob', 'weighted_fp_mean']",173.06739130434784
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob', 'dotd_prob']",169.19130434782608
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob', 'weighted_fp_mean']",169.79782608695652
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dotd_prob', 'weighted_fp_mean']",169.79782608695652
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob', 'dotd_prob', 'weighted_fp_mean']",169.6
+svr,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob', 'dotd_prob', 'weighted_fp_mean']",173.12826086956522
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob', 'dotd_prob', 'weighted_fp_mean']",169.6304347826087
+xgb,"['fp1', 'fp2', 'fp3']",221.66304347826087
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score']",177.7195652173913
+xgb,"['fp1', 'fp2', 'fp3', 'avg_overtake']",234.26739130434783
+xgb,"['fp1', 'fp2', 'fp3', 'dnf_prob']",219.75434782608696
+xgb,"['fp1', 'fp2', 'fp3', 'dotd_prob']",208.9978260869565
+xgb,"['fp1', 'fp2', 'fp3', 'weighted_fp_mean']",220.75652173913045
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake']",185.01521739130436
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob']",168.25434782608696
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'dotd_prob']",174.09782608695653
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'weighted_fp_mean']",178.09782608695653
+xgb,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob']",225.69565217391303
+xgb,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dotd_prob']",223.38260869565218
+xgb,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'weighted_fp_mean']",241.1804347826087
+xgb,"['fp1', 'fp2', 'fp3', 'dnf_prob', 'dotd_prob']",207.41304347826087
+xgb,"['fp1', 'fp2', 'fp3', 'dnf_prob', 'weighted_fp_mean']",211.66086956521738
+xgb,"['fp1', 'fp2', 'fp3', 'dotd_prob', 'weighted_fp_mean']",210.7586956521739
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob']",177.20217391304348
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dotd_prob']",179.25652173913045
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'weighted_fp_mean']",189.1108695652174
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob', 'dotd_prob']",165.30652173913043
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob', 'weighted_fp_mean']",168.9217391304348
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'dotd_prob', 'weighted_fp_mean']",174.4586956521739
+xgb,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob', 'dotd_prob']",213.72173913043477
+xgb,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob', 'weighted_fp_mean']",226.2173913043478
+xgb,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dotd_prob', 'weighted_fp_mean']",229.6195652173913
+xgb,"['fp1', 'fp2', 'fp3', 'dnf_prob', 'dotd_prob', 'weighted_fp_mean']",206.67608695652174
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob', 'dotd_prob']",171.1804347826087
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob', 'weighted_fp_mean']",178.90652173913043
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dotd_prob', 'weighted_fp_mean']",183.93695652173912
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob', 'dotd_prob', 'weighted_fp_mean']",165.84565217391304
+xgb,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob', 'dotd_prob', 'weighted_fp_mean']",217.0021739130435
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob', 'dotd_prob', 'weighted_fp_mean']",173.21521739130435

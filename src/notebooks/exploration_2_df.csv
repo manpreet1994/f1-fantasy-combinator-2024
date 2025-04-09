@@ -1,0 +1,49 @@
+model,feature_set,error
+rf,"['fp1', 'fp2', 'fp3']",183.18478260869566
+rf,"['fp1', 'fp2', 'fp3', 'avg_score']",142.02173913043478
+rf,"['fp1', 'fp2', 'fp3', 'avg_overtake']",192.42391304347825
+rf,"['fp1', 'fp2', 'fp3', 'dnf_prob']",183.48478260869564
+rf,"['fp1', 'fp2', 'fp3', 'dotd_prob']",173.3978260869565
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake']",148.5782608695652
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob']",142.09565217391304
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'dotd_prob']",137.80217391304348
+rf,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob']",183.69347826086957
+rf,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dotd_prob']",178.88260869565218
+rf,"['fp1', 'fp2', 'fp3', 'dnf_prob', 'dotd_prob']",172.59130434782608
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob']",145.7086956521739
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dotd_prob']",140.6195652173913
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob', 'dotd_prob']",137.66739130434783
+rf,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob', 'dotd_prob']",176.93260869565216
+rf,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob', 'dotd_prob']",139.91086956521738
+svr,"['fp1', 'fp2', 'fp3']",173.2826086956522
+svr,"['fp1', 'fp2', 'fp3', 'avg_score']",169.97391304347826
+svr,"['fp1', 'fp2', 'fp3', 'avg_overtake']",173.75652173913045
+svr,"['fp1', 'fp2', 'fp3', 'dnf_prob']",173.49565217391304
+svr,"['fp1', 'fp2', 'fp3', 'dotd_prob']",173.47608695652173
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake']",169.7586956521739
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob']",169.77608695652174
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'dotd_prob']",169.80869565217392
+svr,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob']",173.38695652173914
+svr,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dotd_prob']",173.36304347826086
+svr,"['fp1', 'fp2', 'fp3', 'dnf_prob', 'dotd_prob']",173.55869565217392
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob']",169.36739130434782
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dotd_prob']",169.36739130434782
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob', 'dotd_prob']",169.0108695652174
+svr,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob', 'dotd_prob']",173.4391304347826
+svr,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob', 'dotd_prob']",169.19130434782608
+xgb,"['fp1', 'fp2', 'fp3']",221.66304347826087
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score']",177.7195652173913
+xgb,"['fp1', 'fp2', 'fp3', 'avg_overtake']",234.26739130434783
+xgb,"['fp1', 'fp2', 'fp3', 'dnf_prob']",219.75434782608696
+xgb,"['fp1', 'fp2', 'fp3', 'dotd_prob']",208.9978260869565
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake']",185.01521739130436
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob']",168.25434782608696
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'dotd_prob']",174.09782608695653
+xgb,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob']",225.69565217391303
+xgb,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dotd_prob']",223.38260869565218
+xgb,"['fp1', 'fp2', 'fp3', 'dnf_prob', 'dotd_prob']",207.41304347826087
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob']",177.20217391304348
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dotd_prob']",179.25652173913045
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'dnf_prob', 'dotd_prob']",165.30652173913043
+xgb,"['fp1', 'fp2', 'fp3', 'avg_overtake', 'dnf_prob', 'dotd_prob']",213.72173913043477
+xgb,"['fp1', 'fp2', 'fp3', 'avg_score', 'avg_overtake', 'dnf_prob', 'dotd_prob']",171.1804347826087
